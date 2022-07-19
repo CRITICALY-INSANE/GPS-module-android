@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPS Location</string>
+    <string name="title_activity_save_page">save_page</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="loc"> <u>Your Current Location</u>.</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>
